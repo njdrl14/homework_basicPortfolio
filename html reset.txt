@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+		<title>portfolio</title>
+		<link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+<body>
+<header>
+	
+	<div class="logo">
+			Doug Laughlin
+	</div>
+
+	<ul class="nav">
+		
+		<li><a href="#">About</a></li>
+		<li><a href="#">Portfolio</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+</header>
+
+<div id="aboutme">
+	<article class="section1">
+	<h1>About Me</h1>
+	
+
+	<p>Suspendisse at ipsum ac ex rutrum sodales. Fusce auctor pretium felis a cursus. Ut ac blandit risus. Vivamus dictum nulla malesuada neque dignissim, non consectetur nunc sodales. Nam nec blandit nibh. Quisque pharetra sodales pretium.
+
+Morbi in felis massa. Donec tellus risus, scelerisque et enim vitae, hendrerit suscipit sem. Sed tellus velit, feugiat eu enim in, porta ultricies ligula. Sed feugiat nisl tortor, nec ullamcorper orci scelerisque et. Donec ornare justo risus, in tincidunt augue tempor ut. Etiam efficitur turpis quis quam hendrerit, quis tempor orci viverra. Cras sagittis 
+
+
+	</p>
+	</article>
+</div>
+
+
+<div class="clearfix">
+<article class="section2">
+	
+	<h2>Connect With Me</h2>
+	<p>ursus. Ut ac blandit risus. Vivamus dictum nulla malesuada neque dignissim, non consectetur nunc sodales. Nam nec blandit nibh. Quisque pharetra sodales pretium. Morbi in felis massa. Donec tellus risus, scelerisque et enim vitae, hendrerit suscipit sem. Sed tellus velit, feugiat eu enim in, porta ultricies ligula. Sed feugiat nisl tortor, nec ullamcorper orci scelerisque et. Donec ornare justo risus, in tincidunt augue tempor ut. Etiam efficitu
+	</p>
+
+</article>
+</div>
+
+
+	<footer>
+		<h4>&#169; Copyright 2016 Doug Laughlin</h4>
+	</footer>
+
+
+</body>
+</html>
